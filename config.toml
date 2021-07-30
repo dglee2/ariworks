@@ -1,5 +1,6 @@
 # default config
-baseurl = "https://ariworks.kr"
+#baseurl = "https://ariworks.kr"
+baseurl = "https://focused-shaw-2a9da9.netlify.app"
 languageCode = "ko-kr"
 title = "아리웍스"
 theme = "parsa-hugo"
