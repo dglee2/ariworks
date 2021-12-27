@@ -2,7 +2,7 @@
 #baseurl = "https://ariworks.kr"
 baseurl = "https://ariworks.kr"
 languageCode = "ko-kr"
-title = "아리웍스"
+title = "아리웍스 - 디자인/건설 :: 이쁘게 꾸미다"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -66,7 +66,8 @@ preloader = true
 search = true
 # about author
 author = "Ariworks"
-author_image = "images/intro.jpg"
+author_k = "아리웍스"
+author_image = "images/aw_front.jpg"
 bio = "디자인 / 건설 :: 이쁘게 꾸미다."
 # Contact info
 mobile = "010 7679 7045"
@@ -81,7 +82,7 @@ copyright2 = "Theme by [themefisher.com](themefisher.com)"
 # Instagram feed
 [params.instafeed]
 enable = true
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+access_token =""
 
 # cookies
 [params.cookies]
