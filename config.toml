@@ -54,7 +54,7 @@ weight = 1
 
 # deult parameter
 [params]
-logo = "images/logo.png"
+logo = "images/aw_logo_resize.jpg"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "2"
@@ -68,7 +68,7 @@ search = true
 author = "Ariworks"
 author_k = "아리웍스"
 author_image = "images/aw_front.jpg"
-bio = "디자인 / 건설 :: 이쁘게 꾸미다."
+bio = "##### 디자인 / 건설 :: 이쁘게 꾸미다."
 # Contact info
 mobile = "010 7679 7045"
 email = "kuengang@gmail.com"
