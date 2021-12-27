@@ -1,6 +1,6 @@
 # default config
 #baseurl = "https://ariworks.kr"
-baseurl = "https://focused-shaw-2a9da9.netlify.app"
+baseurl = "https://ariworks.kr"
 languageCode = "ko-kr"
 title = "아리웍스"
 theme = "parsa-hugo"
@@ -67,11 +67,11 @@ search = true
 # about author
 author = "Ariworks"
 author_image = "images/intro.jpg"
-bio = "간단 자기소개 + 웹사이트 소개 여기"
+bio = "디자인 / 건설 :: 이쁘게 꾸미다."
 # Contact info
 mobile = "010 7679 7045"
-email = "석이 이메일@naver.com"
-address = "석이 주소"
+email = "kuengang@gmail.com"
+address = ""
 # Contact Form Action
 contact_form_action = "#"
 # copyright
@@ -85,7 +85,7 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 # social site
